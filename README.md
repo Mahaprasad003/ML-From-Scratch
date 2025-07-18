@@ -7,4 +7,4 @@ I will be using [Machine Learning Mastery](https://machinelearningmastery.com/) 
 2) [Machine Learning Algorithms From Scratch (without libraries)](https://machinelearningmastery.com/machine-learning-algorithms-from-scratch/)
 3) [Machine Learning Mastery With Python](https://machinelearningmastery.com/machine-learning-with-python/)
 
-Cheers.
+Cheers. Test.
